@@ -59,26 +59,22 @@ python app.py
 Gradio will provide a local URL like:
 
 Running on http://127.0.0.1:7860/
-📷 Example Results
+````
 
-Input MRI	Segmented Output
-📚 Dataset
 
-Trained using the Brain Tumor Detection Dataset hosted on Roboflow.
 
-📦 Models Used
+## 📦 Models Used
 
 Ultralytics YOLOv11
 Meta AI Segment Anything (SAM2)
 Roboflow for dataset management
-📜 License
 
-This project is licensed under the MIT License.
 
-🙌 Acknowledgments
+
+## 🙌 Acknowledgments
 
 YOLOv11 by Ultralytics
 SAM2 by Meta AI
 Roboflow for providing annotated medical datasets
 
-Ghafoor Khan
+## Ghafoor Khan
