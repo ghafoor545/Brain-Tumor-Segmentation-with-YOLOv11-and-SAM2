@@ -80,3 +80,5 @@ This project is licensed under the MIT License.
 YOLOv11 by Ultralytics
 SAM2 by Meta AI
 Roboflow for providing annotated medical datasets
+
+Ghafoor Khan
