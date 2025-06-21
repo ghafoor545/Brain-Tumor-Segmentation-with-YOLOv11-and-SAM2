@@ -38,7 +38,7 @@ brain-tumor-segmentation/
 
 ### 1. Clone the Repository
 
-
+```bash
 git clone https://github.com/ghafoor545/Brain-Tumor-Segmentation-with-YOLOv11-and-SAM2.git
 cd Brain-Tumor-Segmentation-with-YOLOv11-and-SAM2
 2. Create and Activate Virtual Environment (optional)
