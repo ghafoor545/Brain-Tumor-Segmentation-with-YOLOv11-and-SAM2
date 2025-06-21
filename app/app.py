@@ -5,8 +5,8 @@ import cv2
 import torch
 
 # Load Models
-yolo_model = YOLO("models/best-23.pt")
-sam_model = SAM("models/sam2_b.pt")
+yolo_model = YOLO("best-23.pt")
+sam_model = SAM("sam2_b.pt")
 
 # Segmentation Function
 def segment_tumor(image):
